@@ -1,0 +1,33 @@
+body {
+ background: black;
+ color: white;
+ font-family: 'GRIXEL Acme 7 Wide Bold';
+}
+
+#title-div {
+  margin: 30px 0;
+}
+
+.count-div {
+  margin-bottom: 40px;
+}
+.count-div h3 {
+  font-size: 70px
+}
+
+#increment-button {
+  margin: 40px 0 20px;
+}
+
+.container {
+/*  background: url('https://media2.fdncms.com/stranger/imager/u/large/43878318/94962404_852894858527959_104099394390851584_n.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;*/
+  width: 400px;
+  padding: 60px 0;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  text-align: right;
+}
